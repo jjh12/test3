@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Year">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="Term">
+        <item>1학기</item>
+        <item>2학기</item>
+        <item>하계 계절학기</item>
+        <item>동계 계절학기</item>
+    </string-array>
+
+    <string-array name="Area">
+        <item>전공</item>
+        <item>교양</item>
+    </string-array>
+
+    <string-array name="Refinement">
+        <item>일반1영역</item>
+        <item>일반2영역</item>
+        <item>일반3영역</item>
+        <item>일반4영역</item>
+        <item>일반5영역</item>
+        <item>핵심1영역</item>
+        <item>핵심2영역</item>
+        <item>핵심3영역</item>
+    </string-array>
+
+    <string-array name="Major">
+        <item>인문 철학과</item>
+        <item>인문 미디어문학과</item>
+        <item>인문 국어국문학과</item>
+        <item>인문 중어중문학과</item>
+        <item>인문 사학과</item>
+        <item>인문 역사철학부</item>
+        <item>인문 일어일문학과</item>
+        <item>예술 미술학과</item>
+        <item>예술 산업디자인학과</item>
+        <item>예술 세라믹콘텐츠디자인학과</item>
+        <item>예술 음악과</item>
+        <item>사회 행정학과</item>
+        <item>사회 사회복지학과</item>
+        <item>사회 경제학과</item>
+        <item>사회 무역학과</item>
+        <item>사회 경영학부</item>
+        <item>사회 회계학과</item>
+        <item>사회 법학과</item>
+        <item>사회 물류학과</item>
+        <item>사회 교직과</item>
+        <item>사회 디지털포렌식전공</item>
+        <item>사회 행정경제학부</item>
+        <item>자연 물리학과</item>
+        <item>자연 화학과</item>
+        <item>자연 생물학과</item>
+        <item>자연 수학과</item>
+        <item>자연 통계컴퓨터학과</item>
+        <item>자연 아동가족학과</item>
+        <item>자연 의류학과</item>
+        <item>자연 체육학과</item>
+        <item>자연 간호학과</item>
+        <item>자연 식품생명과학부</item>
+        <item>공과 전기공학과</item>
+        <item>공과 전자공학과</item>
+        <item>공과 제어로봇공학과</item>
+        <item>공과 전파공학과</item>
+        <item>공과 기계자동차공학부</item>
+        <item>공과 토목공학과</item>
+        <item>공과 환경공학과</item>
+        <item>공과 신소재공학과</item>
+        <item>공과 나노화학공학과</item>
+        <item>공과 건축공학과</item>
+        <item>공과 컴퓨터정보공학과</item>
+        <item>공과 조선공학과</item>
+        <item>공과 사회환경디자인공학부</item>
+        <item>공과 컴퓨터정보통신공학부</item>
+        <item>공과 IT정보제어공학부</item>
+        <item>공과 기계자동차조선해양공학부</item>
+        <item>해양 해양생명과학과</item>
+        <item>해양 해양생물공학과</item>
+        <item>해양 해양생산학과</item>
+        <item>해양 동력기계시스템공학과</item>
+        <item>해양 식품생명공학과</item>
+        <item>해양 수산생명의학과</item>
+        <item>해양 해양경찰학과</item>
+        <item>해양 해양공학과</item>
+        <item>해양 해양학과</item>
+        <item>해양 해양생명응용과학부</item>
+        <item>해양 해양산업운송과학기술학부</item>
+        <item>산학 융합기술창업학과</item>
+        <item>산학 소프트웨어융합공학과</item>
+        <item>산학 공간디자인융합기술학과</item>
+        <item>산학 건축해양건설융합공학부</item>
+        <item>산학 기계융합시스템공학부</item>
+
+    </string-array>
+
+
+
+
+</resources>
